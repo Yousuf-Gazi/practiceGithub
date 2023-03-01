@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-void greetings() {
-    cout << "this is not a javascript file but here you can find javascript word!" << endl;
+void goodEvening() {
+    cout << "Good evening" << endl;
 }
 
 int main() {
-    greetings();
+    goodEvening();
     return 0;
 }
