@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-void goodEvening() {
-    cout << "Good evening" << endl;
+int add(int a, int b) {
+    return a + b;
 }
 
 int main() {
-    goodEvening();
+    cout << add(10, 20) << endl;
     return 0;
 }
