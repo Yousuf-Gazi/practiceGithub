@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 
+void greetings() {
+    cout << "this is not a java file!" << endl;
+}
+
 int main() {
-    cout << "hello world!" << endl;
+    greetings();
     return 0;
 }
