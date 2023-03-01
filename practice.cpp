@@ -2,7 +2,7 @@
 using namespace std;
 
 void greetings() {
-    cout << "this is not a java file!" << endl;
+    cout << "this is not a javascript file!" << endl;
 }
 
 int main() {
