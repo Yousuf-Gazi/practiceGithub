@@ -12,5 +12,6 @@ int sub(int a, int b) {
 int main() {
     cout << add(10, 20) << endl;
     cout << add(100, 20) << endl;
+    cout << "added a new line" << endl;
     return 0;
 }
